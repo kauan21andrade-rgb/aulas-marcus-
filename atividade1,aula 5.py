@@ -1,0 +1,10 @@
+nome=input("qual seu nome ? ")
+print("seu nome é" ,nome)
+bmaior=float(input("qual valor da base maior ?"))
+print("a base maior é " ,bmaior)
+bmenor=float(input("o valor da base menor é ?"))
+print("a base menor é " ,bmenor)
+h=float(input("qual o valor da altura ? "))
+print("a altura é " ,h)
+Atrapezio=((bmaior-bmenor)*h)/2
+print(f"olá,{nome}!, base maior é {bmaior}, base menor é {bmenor}, altura é {h}, logo a área do trapezio é {Atrapezio}")

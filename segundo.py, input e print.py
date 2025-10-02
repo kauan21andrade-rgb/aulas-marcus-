@@ -1,0 +1,6 @@
+nome=input("qual seu nome ?")
+cidade=input("qual sua cidade ?")
+idade=int(input("qual sua idade ?"))
+print("seu nome é",nome)
+print("sua cidade é",cidade)
+print("sua idade",idade)
